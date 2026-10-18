@@ -1,0 +1,17 @@
+{
+  "projectId": "6668638770926506042",
+  "title": "Coffee Shop App",
+  "designSystem": {
+    "id": "assets/800045d41b5e4d0f8b9623ccaa9c155a",
+    "displayName": "Warm Artisanal Craft"
+  },
+  "screens": [
+    {
+      "id": "9da35ef7c3af4238b3d36aac11797a07",
+      "title": "Daily Grind - Sign In",
+      "deviceType": "MOBILE",
+      "html": "designs/daily-grind-sign-in.html",
+      "screenshot": "designs/daily-grind-sign-in.png"
+    }
+  ]
+}
